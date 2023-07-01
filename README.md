@@ -9,7 +9,7 @@
 - GitHub Pages
 
 ## 访问方式
-你可以通过以下链接访问到我的网站：[https://gedo-nudt.github.io]或者你自定义的域名。
+你可以通过以下链接访问到我的网站：[https://gedo-nudt.github.io] 或者你自定义的域名。
 
 ## 如何构建自己的网站
 如果你想创建一个属于自己的GitHub Pages网站，请按照如下步骤进行：
